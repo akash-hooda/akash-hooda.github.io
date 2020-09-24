@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Projects"
-    url: /projects/    
+    url: /projects.md    
         
   - title: "Blog"
     url: https://lithium981858127.wordpress.com/
