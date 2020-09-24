@@ -1,4 +1,3 @@
-# My Projects
 
 - COVID-19 detection system using chest X-Ray images
 The Center for Artificial Intelligence and Robotics, DRDO. **Guide:** Sci-F. Faheem AGJ.
