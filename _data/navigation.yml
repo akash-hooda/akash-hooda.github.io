@@ -4,10 +4,10 @@ main:
     url: /projects/    
         
   - title: "Blog"
-    url: https://www.google.com/
+    url: https://lithium981858127.wordpress.com/
     
   - title: "CV"
-    url: /cv/
+    url: /files/paper1.pdf
     
   - title: "About Me"
     url: /aboutme/
