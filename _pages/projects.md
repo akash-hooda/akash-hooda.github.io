@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+redirect_from:
+  - /about
+---
+
+{% include base_path %}
+
 # My Projects
 
 - COVID-19 detection system using chest X-Ray images
