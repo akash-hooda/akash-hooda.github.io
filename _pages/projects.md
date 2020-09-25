@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# My Projects
-
 - COVID-19 detection system using chest X-Ray images
 The Center for Artificial Intelligence and Robotics, DRDO. **Guide:** Sci-F. Faheem AGJ.
     - Development of an accurate, reliable and robust COVID-19 diagnosis software aimed at reducing the burden placed on doctors, due to the high number of cases during the COVID-19 pandemic in India. I worked on the backend inference software, that exhibited improvements in classification metrics, speed of diagnosis, and the presence of safety check measures that helped reduce the number of false positives, false negatives, and improve the overall reliability of the software. 
